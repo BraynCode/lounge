@@ -76,7 +76,7 @@ export default function AdminDashboard({ initialData }: { initialData: any }) {
         <header className="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-8 gap-4 border-b border-white/10 pb-6">
           <div>
             <h1 className="text-3xl font-playfair mb-2 text-[#f4ef0e]">Lounge Admin</h1>
-            <p className="text-white/60">Edit menu items, preview locally, and push to Git</p>
+            <p className="text-white/60">Edit menu items</p>
           </div>
           <div className="flex gap-3">
             {process.env.NODE_ENV === "development" && (
