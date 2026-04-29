@@ -5,9 +5,10 @@
   "scripts": {
   "dev": "next dev",
   "build": "next build",
-    "start": "next start",
-    "lint": "eslint",
-    "create-admin": "node scripts/create-admin.js"
+  "postbuild": "netlify-next",
+  "start": "next start",
+  "lint": "eslint",
+  "create-admin": "node scripts/create-admin.js"
   },
   "dependencies": {
     "@netlify/next": "^1.4.9",
