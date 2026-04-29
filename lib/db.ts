@@ -138,8 +138,9 @@ class DbWrapper {
 export async function getDb() {
   const SQL = await getSqlJs();
   const data = loadDatabase();
-  const db = new SQL.Database(data);
-  initializeTables(db);
+  // Open database in read-only mode for serverless (Netlify) compatibility
+  const db = new SQL.Database(data, { readonly: true });
+  // Do not call initializeTables in read-only mode
   return new DbWrapper(db);
 }
 
