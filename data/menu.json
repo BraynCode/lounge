@@ -1282,7 +1282,7 @@
           {
             "id": "r-1-4",
             "name": "Martini Rose",
-            "price": "50,000",
+            "price": "30,000",
             "description": "Soft and floral with gentlebubbles"
           }
         ]
@@ -1294,13 +1294,13 @@
           {
             "id": "r-2-1",
             "name": "Baileys (Big)",
-            "price": "50,000",
+            "price": "45,000",
             "description": "Creamy liqueur with rich chocolate notes"
           },
           {
             "id": "r-2-2",
             "name": "Baileys Strawberries",
-            "price": "50,000",
+            "price": "45,000",
             "description": "Sweet creamy liqueur with berry flavor"
           }
         ]
@@ -1336,31 +1336,31 @@
           {
             "id": "r-3-5",
             "name": "Drostdy Hof",
-            "price": "35,000",
+            "price": "30,000",
             "description": "Easy-drinking wine with soft finish"
           },
           {
             "id": "r-3-6",
             "name": "Carlo Rossi",
-            "price": "35,000",
+            "price": "30,000",
             "description": "Light and fruity with balanced taste"
           },
           {
             "id": "r-3-7",
             "name": "Four Cousins Red",
-            "price": "35,000",
+            "price": "30,000",
             "description": "Sweet and smooth red wine"
           },
           {
             "id": "r-3-8",
             "name": "Four Cousins White",
-            "price": "35,000",
+            "price": "30,000",
             "description": "Fresh and sweet white wine"
           },
           {
             "id": "r-3-9",
             "name": "Agor",
-            "price": "35,000",
+            "price": "30,000",
             "description": "Sweet wine with smooth profile"
           },
           {
@@ -1368,12 +1368,6 @@
             "name": "Sweet Kiss",
             "price": "30,000",
             "description": "Light and fruity sweet wine"
-          },
-          {
-            "id": "r-3-11",
-            "name": "Bluenun 24k Gold",
-            "price": "60,000",
-            "description": "Sparkling wine with delicate fruit notes"
           }
         ]
       },
@@ -1388,21 +1382,9 @@
             "description": "Fruit juice"
           },
           {
-            "id": "r-4-2",
-            "name": "Power Horse",
-            "price": "4,000",
-            "description": "Energy drink"
-          },
-          {
             "id": "r-4-3",
             "name": "Red Bull",
             "price": "4,500",
-            "description": "Energy drink"
-          },
-          {
-            "id": "r-4-4",
-            "name": "Monster Drink",
-            "price": "3,000",
             "description": "Energy drink"
           },
           {
