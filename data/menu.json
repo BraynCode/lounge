@@ -806,12 +806,6 @@
             "description": "Local rice served with assorted meats, egg, plantain and sauce"
           },
           {
-            "id": "l-13-2",
-            "name": "Pineapple Fried Rice",
-            "price": "6,000",
-            "description": "Sweet and savory fried rice with pineapple twist"
-          },
-          {
             "id": "l-13-3",
             "name": "Chinese Fried Rice",
             "price": "8,000",
@@ -866,22 +860,10 @@
             "description": "Spicy rice served with grilled asun"
           },
           {
-            "id": "l-13-12",
-            "name": "White Rice & Sauce",
-            "price": "5,000",
-            "description": "Steamed white rice with spicy sauce"
-          },
-          {
             "id": "l-new-ufr7uo",
             "name": "Fried Rice (Turkey)",
             "price": "13,500",
             "description": "Fried rice with Turkey and coleslaw or plantain"
-          },
-          {
-            "id": "l-new-isny9m",
-            "name": "New Item",
-            "price": "0",
-            "description": ""
           }
         ]
       },
@@ -926,40 +908,10 @@
             "description": "Vegetable stir-fried noodles"
           },
           {
-            "id": "l-14-7",
-            "name": "Pepper Soup Noodles",
-            "price": "5,500",
-            "description": "Spicy broth noodles with goat meat"
-          },
-          {
-            "id": "l-14-8",
-            "name": "Asun Noodles",
-            "price": "5,000",
-            "description": "Spicy noodles with goat meat"
-          },
-          {
-            "id": "l-14-9",
-            "name": "Spaghetti Bolognese",
-            "price": "19,700",
-            "description": "Rich meat sauce tossed with classic spaghetti"
-          },
-          {
-            "id": "l-14-10",
-            "name": "Chicken Alfredo Pasta",
-            "price": "20,700",
-            "description": "Creamy pasta with tender chicken and parmesan"
-          },
-          {
             "id": "l-14-11",
             "name": "Mac and Cheese",
             "price": "8,800",
             "description": "Cheesy baked pasta with creamy texture"
-          },
-          {
-            "id": "l-14-12",
-            "name": "Creamy Tomato Pasta with Crouton",
-            "price": "10,000",
-            "description": "Smooth tomato-based pasta topped with crunchy croutons"
           }
         ]
       },
@@ -992,28 +944,10 @@
             "description": "Seafood-rich spicy soup"
           },
           {
-            "id": "l-15-5",
-            "name": "Bitter Leaf",
-            "price": "4,500",
-            "description": "Classic soup with bold taste"
-          },
-          {
-            "id": "l-15-6",
-            "name": "Banga",
-            "price": "3,600",
-            "description": "Palm nut soup with rich flavor"
-          },
-          {
             "id": "l-15-7",
             "name": "Ogbono",
             "price": "3,000",
             "description": "Draw soup with unique texture"
-          },
-          {
-            "id": "l-15-8",
-            "name": "Efo Riro",
-            "price": "3,500",
-            "description": "Spinach stew with rich sauce"
           },
           {
             "id": "l-15-9",
@@ -1027,12 +961,6 @@
         "title": "Swallows",
         "group": "Food",
         "items": [
-          {
-            "id": "l-16-1",
-            "name": "Eba",
-            "price": "1,500",
-            "description": "Garri swallow"
-          },
           {
             "id": "l-16-2",
             "name": "Yellow Eba",
@@ -1050,12 +978,6 @@
             "name": "Poundo",
             "price": "1,500",
             "description": "Soft pounded yam alternative"
-          },
-          {
-            "id": "l-16-5",
-            "name": "Plantain Swallow",
-            "price": "1,500",
-            "description": "Healthy plantain swallow"
           }
         ]
       },
@@ -1142,12 +1064,6 @@
             "description": "Mixed meats in a bold, spicy soup"
           },
           {
-            "id": "l-18-5",
-            "name": "Ox Tail Pepper Soup",
-            "price": "9,000",
-            "description": "Rich and flavorful soup with tender oxtail"
-          },
-          {
             "id": "l-18-6",
             "name": "Cow Leg Pepper Soup",
             "price": "8,000",
@@ -1170,18 +1086,6 @@
             "name": "Honey Glazed Chicken with Sour Hot Sauce",
             "price": "9,300",
             "description": "Sweet and spicy glazed chicken"
-          },
-          {
-            "id": "l-19-3",
-            "name": "Beer-Canned Chicken with Honey Garlic Glaze",
-            "price": "10,200",
-            "description": "Juicy roasted chicken infused with beer and garlic"
-          },
-          {
-            "id": "l-19-4",
-            "name": "Rixos Jerk Chicken with Spicy Jerk Sauce",
-            "price": "11,000",
-            "description": "Caribbean-style spicy grilled chicken"
           },
           {
             "id": "l-19-5",
@@ -1214,18 +1118,6 @@
             "description": "Spicy Cajun turkey paired with seasoned yam"
           },
           {
-            "id": "l-20-3",
-            "name": "Suya Turkey with Roasted Plantain and Vegetable Sauce",
-            "price": "12,400",
-            "description": "Suya-spiced turkey with Nigerian sides"
-          },
-          {
-            "id": "l-20-4",
-            "name": "Rixos Jerk Turkey with Spicy Jerk Sauce",
-            "price": "12,900",
-            "description": "Bold jerk-seasoned turkey with heat"
-          },
-          {
             "id": "l-20-5",
             "name": "Spiced Smokey Turkey with BBQ Sauce",
             "price": "12,600",
@@ -1246,7 +1138,7 @@
           {
             "id": "l-21-2",
             "name": "Grilled Croaker Fish",
-            "price": "15,700",
+            "price": "19,000",
             "description": "Fresh croaker fish with smoky grilled flavor"
           }
         ]
