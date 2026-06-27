@@ -1772,12 +1772,6 @@
         "group": "Food",
         "items": [
           {
-            "id": "r-8-1",
-            "name": "Buffalo Chicken Wings",
-            "price": "7,900",
-            "description": "Crispy wings tossed in spicy buffalo sauce"
-          },
-          {
             "id": "r-8-2",
             "name": "Small Chops with Dip",
             "price": "7,000",
@@ -1788,30 +1782,6 @@
             "name": "Honey Glazed Wings with Fries",
             "price": "8,000",
             "description": "Sweet glazed wings served with crispy fries"
-          },
-          {
-            "id": "r-8-4",
-            "name": "Prawn Cocktail",
-            "price": "12,400",
-            "description": "Fresh prawns served in creamy cocktail sauce"
-          },
-          {
-            "id": "r-8-5",
-            "name": "Shrimps in Mayo",
-            "price": "2,800",
-            "description": "Juicy shrimps coated in rich mayonnaise"
-          },
-          {
-            "id": "r-8-6",
-            "name": "Mini Burgers with Fries",
-            "price": "5,100",
-            "description": "Small juicy burgers served with fries"
-          },
-          {
-            "id": "r-8-7",
-            "name": "Tempura Prawn",
-            "price": "9,000",
-            "description": "Lightly battered and crispy fried prawns"
           },
           {
             "id": "r-8-8",
@@ -1910,12 +1880,6 @@
             "description": "Mixed meats in a bold, spicy soup"
           },
           {
-            "id": "r-10-5",
-            "name": "Ox Tail Pepper Soup",
-            "price": "9,000",
-            "description": "Rich and flavorful soup with tender oxtail"
-          },
-          {
             "id": "r-10-6",
             "name": "Cow Leg Pepper Soup",
             "price": "8,000",
@@ -1927,18 +1891,6 @@
         "title": "Salads",
         "group": "Food",
         "items": [
-          {
-            "id": "r-11-1",
-            "name": "Caesar Salad",
-            "price": "10,000",
-            "description": "Fresh greens with creamy Caesar dressing"
-          },
-          {
-            "id": "r-11-2",
-            "name": "Suya Carpaccio",
-            "price": "8,000",
-            "description": "Thinly sliced spiced beef with suya flavor"
-          },
           {
             "id": "r-11-3",
             "name": "Pasta Salad",
@@ -1968,12 +1920,6 @@
             "name": "Ofada Rice",
             "price": "12,000",
             "description": "Local rice served with assorted meats, egg, plantain and sauce"
-          },
-          {
-            "id": "r-12-2",
-            "name": "Pineapple Fried Rice",
-            "price": "6,000",
-            "description": "Sweet and savory fried rice with pineapple twist"
           },
           {
             "id": "r-12-3",
@@ -2084,24 +2030,6 @@
             "description": "Vegetable stir-fried noodles"
           },
           {
-            "id": "r-13-7",
-            "name": "Pepper Soup Noodles",
-            "price": "5,500",
-            "description": "Spicy broth noodles with goat meat"
-          },
-          {
-            "id": "r-13-8",
-            "name": "Asun Noodles",
-            "price": "5,000",
-            "description": "Spicy noodles with goat meat"
-          },
-          {
-            "id": "r-13-9",
-            "name": "Spaghetti Bolognese",
-            "price": "19,700",
-            "description": "Rich meat sauce tossed with classic spaghetti"
-          },
-          {
             "id": "r-13-10",
             "name": "Chicken Alfredo Pasta",
             "price": "20,700",
@@ -2112,12 +2040,6 @@
             "name": "Mac and Cheese",
             "price": "8,800",
             "description": "Cheesy baked pasta with creamy texture"
-          },
-          {
-            "id": "r-13-12",
-            "name": "Creamy Tomato Pasta with Crouton",
-            "price": "10,000",
-            "description": "Smooth tomato-based pasta topped with crunchy croutons"
           }
         ]
       },
@@ -2125,12 +2047,6 @@
         "title": "Steak",
         "group": "Food",
         "items": [
-          {
-            "id": "r-14-1",
-            "name": "Tomahawk Steak (410g)",
-            "price": "38,700",
-            "description": "Large bone-in steak with rich, juicy flavor"
-          },
           {
             "id": "r-14-2",
             "name": "Rixos Ribeye Steak (338g)",
@@ -2142,12 +2058,6 @@
             "name": "T-Bone Steak (350g)",
             "price": "30,700",
             "description": "Classic cut combining strip and tenderloin"
-          },
-          {
-            "id": "r-14-4",
-            "name": "Smoked Pulled Beef Shank (2kg)",
-            "price": "66,500",
-            "description": "Slow-cooked beef, smoky and fall-off-the-bone tender"
           }
         ]
       },
@@ -2180,28 +2090,10 @@
             "description": "Seafood-rich spicy soup"
           },
           {
-            "id": "r-15-5",
-            "name": "Bitter Leaf",
-            "price": "4,500",
-            "description": "Classic soup with bold taste"
-          },
-          {
-            "id": "r-15-6",
-            "name": "Banga",
-            "price": "3,600",
-            "description": "Palm nut soup with rich flavor"
-          },
-          {
             "id": "r-15-7",
             "name": "Ogbono",
             "price": "3,000",
             "description": "Draw soup with unique texture"
-          },
-          {
-            "id": "r-15-8",
-            "name": "Efo Riro",
-            "price": "3,500",
-            "description": "Spinach stew with rich sauce"
           },
           {
             "id": "r-15-9",
@@ -2215,12 +2107,6 @@
         "title": "Swallows",
         "group": "Food",
         "items": [
-          {
-            "id": "r-16-1",
-            "name": "Eba",
-            "price": "1,500",
-            "description": "Garri swallow"
-          },
           {
             "id": "r-16-2",
             "name": "Yellow Eba",
@@ -2238,12 +2124,6 @@
             "name": "Poundo",
             "price": "1,500",
             "description": "Soft pounded yam alternative"
-          },
-          {
-            "id": "r-16-5",
-            "name": "Plantain Swallow",
-            "price": "1,500",
-            "description": "Healthy plantain swallow"
           }
         ]
       },
@@ -2262,18 +2142,6 @@
             "name": "Honey Glazed Chicken with Sour Hot Sauce",
             "price": "9,300",
             "description": "Sweet and spicy glazed chicken"
-          },
-          {
-            "id": "r-17-3",
-            "name": "Beer-Canned Chicken with Honey Garlic Glaze",
-            "price": "10,200",
-            "description": "Juicy roasted chicken infused with beer and garlic"
-          },
-          {
-            "id": "r-17-4",
-            "name": "Rixos Jerk Chicken with Spicy Jerk Sauce",
-            "price": "11,000",
-            "description": "Caribbean-style spicy grilled chicken"
           },
           {
             "id": "r-17-5",
@@ -2306,18 +2174,6 @@
             "description": "Spicy Cajun turkey paired with seasoned yam"
           },
           {
-            "id": "r-18-3",
-            "name": "Suya Turkey with Roasted Plantain and Vegetable Sauce",
-            "price": "12,400",
-            "description": "Suya-spiced turkey with Nigerian sides"
-          },
-          {
-            "id": "r-18-4",
-            "name": "Rixos Jerk Turkey with Spicy Jerk Sauce",
-            "price": "12,900",
-            "description": "Bold jerk-seasoned turkey with heat"
-          },
-          {
             "id": "r-18-5",
             "name": "Spiced Smokey Turkey with BBQ Sauce",
             "price": "12,600",
@@ -2338,7 +2194,7 @@
           {
             "id": "r-19-2",
             "name": "Grilled Croaker Fish",
-            "price": "22,600",
+            "price": "19,000",
             "description": "Fresh croaker fish with smoky grilled flavor"
           }
         ]
@@ -2346,80 +2202,17 @@
       {
         "title": "Seafood",
         "group": "Food",
-        "items": [
-          {
-            "id": "r-20-1",
-            "name": "Smoked Cajun Tiger Prawns with Dirty Fries",
-            "price": "21,700",
-            "description": "Large prawns with bold Cajun spices and fries"
-          },
-          {
-            "id": "r-20-2",
-            "name": "Grilled Crocker Fish with Yam Fries",
-            "price": "15,700",
-            "description": "Fresh fish grilled and served with yam fries"
-          },
-          {
-            "id": "r-20-3",
-            "name": "Grilled Catfish with Sweet Potatoes and Plantain",
-            "price": "15,400",
-            "description": "Well-seasoned catfish with hearty sides"
-          },
-          {
-            "id": "r-20-4",
-            "name": "Grilled Lemon Tilapia",
-            "price": "20,400",
-            "description": "Light and zesty grilled tilapia with lemon flavor"
-          }
-        ]
+        "items": []
       },
       {
         "title": "Platters",
         "group": "Food",
-        "items": [
-          {
-            "id": "r-21-1",
-            "name": "Rixos Premium Platter (Serves 15)",
-            "price": "176,000",
-            "description": "Crocodile chunks, whole chunked guinea fowl, asun, 5 chunked turkeys, special fried rice, bole with vegetable sauce, yam fries, egg coleslaw, apple pie"
-          },
-          {
-            "id": "r-21-2",
-            "name": "Rixos Platter (Serves 10)",
-            "price": "128,800",
-            "description": "Whole grilled suya rabbit, asun, whole beer can chicken, 3 turkeys, coconut seafood rice, fried plantain, fried potatoes, fruit tart"
-          }
-        ]
+        "items": []
       },
       {
         "title": "Desserts",
         "group": "Food",
-        "items": [
-          {
-            "id": "r-22-1",
-            "name": "Apple Pie",
-            "price": "7,300",
-            "description": "Classic baked pie with sweet apple filling"
-          },
-          {
-            "id": "r-22-2",
-            "name": "Fruit Tart",
-            "price": "8,000",
-            "description": "Buttery crust filled with fresh fruits"
-          },
-          {
-            "id": "r-22-3",
-            "name": "Death by Chocolate Cake",
-            "price": "10,300",
-            "description": "Rich and indulgent chocolate layered cake"
-          },
-          {
-            "id": "r-22-4",
-            "name": "Flan",
-            "price": "13,700",
-            "description": "Smooth creamy custard with caramel glaze"
-          }
-        ]
+        "items": []
       }
     ]
   }
