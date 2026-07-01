@@ -1168,13 +1168,13 @@
           {
             "id": "r-2-1",
             "name": "Baileys (Big)",
-            "price": "45,000",
+            "price": "40,000",
             "description": "Creamy liqueur with rich chocolate notes"
           },
           {
             "id": "r-2-2",
             "name": "Baileys Strawberries",
-            "price": "45,000",
+            "price": "40,000",
             "description": "Sweet creamy liqueur with berry flavor"
           }
         ]
@@ -1210,25 +1210,25 @@
           {
             "id": "r-3-5",
             "name": "Drostdy Hof",
-            "price": "30,000",
+            "price": "25,000",
             "description": "Easy-drinking wine with soft finish"
           },
           {
             "id": "r-3-6",
             "name": "Carlo Rossi",
-            "price": "30,000",
+            "price": "25,000",
             "description": "Light and fruity with balanced taste"
           },
           {
             "id": "r-3-7",
             "name": "Four Cousins Red",
-            "price": "30,000",
+            "price": "25,000",
             "description": "Sweet and smooth red wine"
           },
           {
             "id": "r-3-8",
             "name": "Four Cousins White",
-            "price": "30,000",
+            "price": "25,000",
             "description": "Fresh and sweet white wine"
           },
           {
@@ -1240,7 +1240,7 @@
           {
             "id": "r-3-10",
             "name": "Sweet Kiss",
-            "price": "30,000",
+            "price": "25,000",
             "description": "Light and fruity sweet wine"
           }
         ]
@@ -1252,19 +1252,19 @@
           {
             "id": "r-4-1",
             "name": "Cranberry Juice",
-            "price": "12,000",
+            "price": "10,000",
             "description": "Fruit juice"
           },
           {
             "id": "r-4-3",
             "name": "Red Bull",
-            "price": "4,500",
+            "price": "4,000",
             "description": "Energy drink"
           },
           {
             "id": "r-4-5",
             "name": "Fresh Juice",
-            "price": "8,000",
+            "price": "6,000",
             "description": "Fresh fruit juice"
           },
           {
@@ -1276,31 +1276,31 @@
           {
             "id": "r-4-7",
             "name": "Malt",
-            "price": "2,000",
+            "price": "1,500",
             "description": "Non-alcoholic malt drink"
           },
           {
             "id": "r-4-8",
             "name": "Farouz",
-            "price": "2,000",
+            "price": "1,500",
             "description": "Non-alcoholic fruit malt"
           },
           {
             "id": "r-4-9",
             "name": "Coke",
-            "price": "2,000",
+            "price": "1,500",
             "description": "Soft drink"
           },
           {
             "id": "r-4-10",
             "name": "Sprite",
-            "price": "2,000",
+            "price": "1,500",
             "description": "Soft drink"
           },
           {
             "id": "r-4-11",
             "name": "Water",
-            "price": "1,500",
+            "price": "1,000",
             "description": "Still water"
           }
         ]
