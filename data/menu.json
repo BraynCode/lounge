@@ -10,19 +10,19 @@
           {
             "id": "l-1-1",
             "name": "Hennessy",
-            "price": "850,000",
+            "price": "800,000",
             "description": "Rich and full-bodied with deep oak and spice notes"
           },
           {
             "id": "l-1-2",
             "name": "Hennessy VSOP",
-            "price": "185,000",
+            "price": "180,000",
             "description": "Smooth and balanced with hints of vanilla and fruit"
           },
           {
             "id": "l-1-3",
             "name": "Hennessy VS",
-            "price": "130,000",
+            "price": "120,000",
             "description": "Bold and lively with a clean warm finish"
           },
           {
@@ -34,19 +34,19 @@
           {
             "id": "l-1-5",
             "name": "Martell VS Single Distillery",
-            "price": "120,000",
+            "price": "115,000",
             "description": "Light and fruity with a mellow finish"
           },
           {
             "id": "l-1-6",
             "name": "Remy Martin XO Excellence",
-            "price": "650,000",
+            "price": "600,000",
             "description": "Luxurious blend with rich complexity and depth"
           },
           {
             "id": "l-1-7",
             "name": "Remy Martin 1738",
-            "price": "200,000",
+            "price": "190,000",
             "description": "Velvety smooth with toasted oak notes"
           },
           {
@@ -106,26 +106,20 @@
           {
             "id": "l-2-7",
             "name": "Olmeca Gold",
-            "price": "50,000",
+            "price": "45,000",
             "description": "Smooth with a slightly sweet finish"
           },
           {
             "id": "l-2-8",
             "name": "Olmeca Blanco",
-            "price": "50,000",
+            "price": "45,000",
             "description": "Light and crisp with citrus edge"
           },
           {
             "id": "l-2-9",
             "name": "Tequila Sierra",
-            "price": "45,000",
+            "price": "40,000",
             "description": "Bold and simple with strong finish"
-          },
-          {
-            "id": "l-2-10",
-            "name": "Patron",
-            "price": "100,000",
-            "description": "Premium smooth tequila with clean finish"
           }
         ]
       },
@@ -136,55 +130,55 @@
           {
             "id": "l-3-1",
             "name": "Glenfiddich 18 Years",
-            "price": "265,000",
+            "price": "260,000",
             "description": "Rich and complex with oak, spice, and dried fruit"
           },
           {
             "id": "l-3-2",
             "name": "Glenfiddich 15 Years",
-            "price": "165,000",
+            "price": "160,000",
             "description": "Smooth with honey and warm spice notes"
           },
           {
             "id": "l-3-3",
             "name": "Glenfiddich 12 Years",
-            "price": "125,000",
+            "price": "120,000",
             "description": "Fresh and fruity with soft oak finish"
           },
           {
             "id": "l-3-4",
             "name": "Jameson",
-            "price": "60,000",
+            "price": "55,000",
             "description": "Light and smooth with subtle sweetness"
           },
           {
             "id": "l-3-5",
             "name": "Jameson Black Barrel",
-            "price": "85,000",
+            "price": "80,000",
             "description": "Deep and rich with toasted wood notes"
           },
           {
             "id": "l-3-6",
             "name": "Jack Daniel's No.7",
-            "price": "65,000",
+            "price": "60,000",
             "description": "Bold with smoky vanilla finish"
           },
           {
             "id": "l-3-7",
             "name": "Johnnie Walker Red Label",
-            "price": "45,000",
+            "price": "40,000",
             "description": "Spicy and vibrant with bold character"
           },
           {
             "id": "l-3-8",
             "name": "Johnnie Walker Black Label",
-            "price": "75,000",
+            "price": "70,000",
             "description": "Smooth and smoky with balanced depth"
           },
           {
             "id": "l-3-9",
             "name": "William Lawson's",
-            "price": "30,000",
+            "price": "25,000",
             "description": "Easy-drinking with soft malty finish"
           }
         ]
@@ -232,25 +226,25 @@
           {
             "id": "l-5-1",
             "name": "Jägermeister",
-            "price": "50,000",
+            "price": "45,000",
             "description": "Herbal liqueur with bold bittersweet taste"
           },
           {
             "id": "l-5-2",
             "name": "Campari",
-            "price": "50,000",
+            "price": "45,000",
             "description": "Bitter and aromatic with citrus notes"
           },
           {
             "id": "l-5-3",
             "name": "Baileys (Big)",
-            "price": "45,000",
+            "price": "40,000",
             "description": "Creamy liqueur with rich chocolate notes"
           },
           {
             "id": "l-5-4",
             "name": "Baileys Strawberries",
-            "price": "45,000",
+            "price": "40,000",
             "description": "Sweet creamy liqueur with berry flavor"
           },
           {
@@ -264,12 +258,6 @@
             "name": "Absolut Vodka",
             "price": "40,000",
             "description": "Smooth vodka with pure clean taste"
-          },
-          {
-            "id": "l-5-7",
-            "name": "Gordon's Gin",
-            "price": "20,000",
-            "description": "Classic dry gin with herbal freshness"
           }
         ]
       },
@@ -304,7 +292,7 @@
           {
             "id": "l-6-5",
             "name": "Drostdy-Hof",
-            "price": "30,000",
+            "price": "25,000",
             "description": "Easy-drinking wine with soft finish"
           },
           {
@@ -316,13 +304,13 @@
           {
             "id": "l-6-7",
             "name": "Four Cousins Red",
-            "price": "30,000",
+            "price": "25,000",
             "description": "Sweet and smooth red wine"
           },
           {
             "id": "l-6-8",
             "name": "Four Cousins White",
-            "price": "30,000",
+            "price": "25,000",
             "description": "Fresh and sweet white wine"
           },
           {
@@ -336,12 +324,6 @@
             "name": "Sweet Kiss",
             "price": "25,000",
             "description": "Light and fruity sweet wine"
-          },
-          {
-            "id": "l-6-11",
-            "name": "Bluenun 24k Gold",
-            "price": "50,000",
-            "description": "Sparkling wine with delicate fruit notes"
           }
         ]
       },
