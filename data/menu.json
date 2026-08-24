@@ -886,13 +886,13 @@
           {
             "id": "l-14-5",
             "name": "Egg Noodles",
-            "price": "3,500",
+            "price": "4,000",
             "description": "Noodles mixed with egg"
           },
           {
             "id": "l-14-6",
             "name": "Veg Noodles",
-            "price": "3,000",
+            "price": "4,000",
             "description": "Vegetable stir-fried noodles"
           },
           {
@@ -952,19 +952,19 @@
           {
             "id": "l-16-2",
             "name": "Yellow Eba",
-            "price": "1,500",
+            "price": "2,000",
             "description": "Garri swallow with rich color"
           },
           {
             "id": "l-16-3",
             "name": "Semo",
-            "price": "1,500",
+            "price": "2,000",
             "description": "Smooth wheat swallow"
           },
           {
             "id": "l-16-4",
             "name": "Poundo",
-            "price": "1,500",
+            "price": "2,000",
             "description": "Soft pounded yam alternative"
           }
         ]
