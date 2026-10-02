@@ -258,6 +258,18 @@
             "name": "Absolut Vodka",
             "price": "40,000",
             "description": "Smooth vodka with pure clean taste"
+          },
+          {
+            "id": "l-new-hfvbyx",
+            "name": "Ace bitters pets ",
+            "price": "5000",
+            "description": "Ace Bitters is a refreshing herbal bitters drink crafted with a blend of selected herbs and botanicals."
+          },
+          {
+            "id": "l-new-5633lo",
+            "name": "Action Bitters pets ",
+            "price": "3500",
+            "description": "Bittersweet, herbal & refreshing"
           }
         ]
       },
