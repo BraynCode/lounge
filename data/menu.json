@@ -1137,8 +1137,14 @@
           },
           {
             "id": "l-21-2",
-            "name": "Grilled Croaker Fish",
+            "name": "Grilled Croaker Fish small",
             "price": "19,000",
+            "description": "Fresh croaker fish with smoky grilled flavor"
+          },
+          {
+            "id": "l-new-d8qbz9",
+            "name": "Grilled Croaker Fish Big",
+            "price": "25,000",
             "description": "Fresh croaker fish with smoky grilled flavor"
           }
         ]
